@@ -29,16 +29,16 @@ ___CSS_LOADER_EXPORT___.push([module.i, "@charset \"UTF-8\";\n/*!\n * Bootstrap 
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\node_modules\bootstrap\dist\css\bootstrap.min.css */"q4sD");
-__webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"8jWO");
-__webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\node_modules\@fortawesome\fontawesome-free\scss\fontawesome.scss */"It1N");
-__webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\node_modules\@fortawesome\fontawesome-free\scss\solid.scss */"vKv2");
-__webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\node_modules\@fortawesome\fontawesome-free\scss\regular.scss */"7GZw");
-__webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\node_modules\@fortawesome\fontawesome-free\scss\brands.scss */"IMdO");
-__webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\node_modules\angular-bootstrap-md\assets\scss\bootstrap\bootstrap.scss */"B0TE");
-__webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\node_modules\angular-bootstrap-md\assets\scss\mdb.scss */"PJnJ");
-__webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\node_modules\animate.css\animate.css */"d+3G");
-module.exports = __webpack_require__(/*! D:\Arogyam-copy1\arogyan-site\src\styles.css */"OmL/");
+__webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\node_modules\bootstrap\dist\css\bootstrap.min.css */"q4sD");
+__webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"8jWO");
+__webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\node_modules\@fortawesome\fontawesome-free\scss\fontawesome.scss */"It1N");
+__webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\node_modules\@fortawesome\fontawesome-free\scss\solid.scss */"vKv2");
+__webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\node_modules\@fortawesome\fontawesome-free\scss\regular.scss */"7GZw");
+__webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\node_modules\@fortawesome\fontawesome-free\scss\brands.scss */"IMdO");
+__webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\node_modules\angular-bootstrap-md\assets\scss\bootstrap\bootstrap.scss */"B0TE");
+__webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\node_modules\angular-bootstrap-md\assets\scss\mdb.scss */"PJnJ");
+__webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\node_modules\animate.css\animate.css */"d+3G");
+module.exports = __webpack_require__(/*! D:\Arogyam-copy1\Arogyan-site\src\styles.css */"OmL/");
 
 
 /***/ }),
@@ -756,7 +756,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
 // Module
-___CSS_LOADER_EXPORT___.push([module.i, "/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\n\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif;}\n", "",{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;AAE9E,aAAa,YAAY,EAAE;;AAC3B,OAAO,SAAS,EAAE,iDAAiD,CAAC","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif;}\n"],"sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.i, "/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\n\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif;}", "",{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;AAE9E,aAAa,YAAY,EAAE;;AAC3B,OAAO,SAAS,EAAE,iDAAiD,CAAC","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif;}"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
 
